@@ -1,3 +1,4 @@
+// nodemon index.js  para iniciar aplicação
 const express = require('express');
 const cursosController = require('./controllers/cursosController');
 const ccrsController = require('./controllers/ccrsController');
